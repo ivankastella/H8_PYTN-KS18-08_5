@@ -1,0 +1,12 @@
+numpy==1.24.3
+pandas==2.1.1
+seaborn==0.12.2
+matplotlib==3.7.2
+scikit-learn==1.3.0
+pip==23.2.1
+<<<<<<< HEAD
+streamlit
+=======
+plotly==5.9.0
+streamlit
+>>>>>>> 624b1db22f10469fb7c59af91ec8921263604bcf
