@@ -1,7 +1,0 @@
-Github:
-
-https://github.com/ivankastella/H8_PYTN-KS18-08_5/tree/main/FinalProject4
-
-Deployement :
-
-https://final4kelompok3.streamlit.app/ 
